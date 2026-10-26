@@ -29,7 +29,6 @@ terraform state show docker_container.nginx
 terraform destroy
 ```
 
-## Interview Questions
 
 ### 1. What is Infrastructure as Code (IaC)?
 IaC is the practice of defining and managing infrastructure using configuration files instead of creating resources manually.
